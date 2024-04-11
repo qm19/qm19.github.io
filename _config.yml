@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Min Qian"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : "PhD candidate in the Department of Industrial Engineering, Tsinghua University. Focusing on complex system RAMS (reliability, availability, maintainability, safety) assessment and PHM."
 repository               : "qm19/qm19.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Min Qian (钱敏)"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/QM-512x512.png"
   bio              : "Tsinghua University"
   location         : "Beijing, China"
   employer         :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "github qm19"
+  github           : "github/qm19"
   google_plus      :
   keybase          :
   instagram        :
