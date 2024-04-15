@@ -29,21 +29,21 @@ I won the Best Paper Award at the 2020 Annual Conference of the Optimization Met
 
 My research interest includes imbalance learning and positive unlabeled (PU) learning. To date, I have published 10 academic papers with total <a href='https://scholar.google.com/citations?user=jj04udoAAAAJ&hl=zh-CN'>google scholar citations <strong><span id='total_cit'>more than 200</span></strong></a>, including 6 SCI top journal papers, and obtained several invention patents.
 
-If you are seeking any form of **academic cooperation** or **project cooperation**, please feel free to email me at qianmin.tsinghua@outlook.com.
+If you are seeking any form of **academic cooperation** or **project cooperation**, please feel free to email me at [qianmin.tsinghua@outlook.com](qianmin.tsinghua@outlook.com).
 
 # 📖 Educations
-- *2019.09 - 2024.06 (now)*, PhD, Department of Industrial Engineering, Tsinghua University, Beijing, (GPA: 3.68/4, rank: 9/49).
-- *2015.09 - 2019.06*, Undergraduate, School of Mechanical Science & Engineering, Huazhong University of Science and Technology, Wuhan, (Score: 91.67, rank: 1/ 52).
-- *2017.12 - 2018.02*, Visiting scholar, Stanford University, California.
-- *2012.09 - 2015.06*, Wuwei Middle School, Wuwei.
+- *2019.09 - 2024.06 (now)*, PhD, Department of Industrial Engineering, Tsinghua University, Beijing, (GPA: 3.68/4, rank: 9/49)
+- *2015.09 - 2019.06*, Undergraduate, School of Mechanical Science & Engineering, Huazhong University of Science and Technology, Wuhan, (Score: 91.67, rank: 1/ 52)
+- *2017.12 - 2018.02*, Visiting scholar, Stanford University, California
+- *2012.09 - 2015.06*, Wuwei Middle School, Wuwei
 
 
 # 🔥 News
-- *2023.12*: &nbsp;🎉🎉 I won the National Scholarship for Doctoral Students (博士生国家奖学金).
+- *2023.12*: &nbsp;🎉🎉 I won the National Scholarship for Doctoral Students (博士生国家奖学金)
 - *2023.11*: &nbsp;🎉 I Won the Second Prize in the 2023 China Intelligent Transportation Technology Innovation Competition (2023年中国智能交通科创大赛-智能网联汽车网络与数据安全二等奖，并列第二名)
 - *2023.11*: &nbsp; I Won the Excellent Award in the 2023 China Intelligent Transportation Technology Innovation Competition (2023年中国智能交通科创大赛-基于ADS-B的飞行流量预测优胜奖,并列第四名)
-- *2023.04*: &nbsp; 🎉🎉 Paper is published by IEEE Transactions on Industrial Informatics.
-- *2023.02*: &nbsp; 🎉 Paper is published by IEEE Transactions on Reliability.
+- *2023.04*: &nbsp; 🎉🎉 Paper is published by IEEE Transactions on Industrial Informatics
+- *2023.02*: &nbsp; 🎉 Paper is published by IEEE Transactions on Reliability
 
 
 # 📝 Publications 
@@ -83,15 +83,15 @@ Class-imbalance and Partial Label-unknown](https://ieeexplore.ieee.org/xpl/Recen
 
 
 # 🔍 Projects 
-- <span style="background-color: #191970; color: white; padding: 1px; border-radius: 1px;">Government Sponsored Project</span> *2018-2022*, "Big-data driven methodologies for high availability of the high-speed railways" (大数据驱动的高速铁路高可用性研究), National Natural Science Foundation of China (NSFC), Key project 71731008. 
-- <span style="background-color: #191970; color: white; padding: 1px; border-radius: 1px;">Government Sponsored Project</span> *2019-2022*, "Prognostics and health management of the railway vehicle running gears based on digital-twin technology" (基于数字孪生技术的城轨列车走行系统故障预测与健康管理), Beijing Municipal Natural Science Foundation-Rail Transit Joint Research Program, L191022.
-- <span style="background-color: #191970; color: white; padding: 1px; border-radius: 1px;">Government Sponsored Project</span> *2019-2022*, "Intelligent fault diagnosis and health management system of industrial robots" (工业机器人智能故障诊断及健康评估系统), National Key Research and Development Program of China, 2018YFB1306100.
-- <span style="background-color: #191970; color: white; padding: 1px; border-radius: 1px;">Industry Sponsored Project</span> *2018-2019*, "SDS reliability testing efficiency optimization" (装备可靠性测试效率提升), Huawei Machine Ltd.
-- <span style="background-color: #191970; color: white; padding: 1px; border-radius: 1px;">Industry Sponsored Project</span> *2020-2021*, "Predictive maintenance of hobbing tools" (滚齿刀具的预测性维护), Volkswagen China.
-- <span style="background-color: #191970; color: white; padding: 1px; border-radius: 1px;">Industry Sponsored Project</span> *2020-2021*, "Intra-carriage noise source identification and condition-based maintenance for high-speed train wheel degradation" (噪声声源识别测试及列车轮对视情维修研究), China Railway Xi'an Group.
-- <span style="background-color: #191970; color: white; padding: 1px; border-radius: 1px;">Industry Sponsored Project</span> *2020-2021*, "Research on the inspection policy of hollow axles in high speed trains" (高速列车空心车轴的探伤周期研究), China Railway Xi'an Group.
-- <span style="background-color: #191970; color: white; padding: 1px; border-radius: 1px;">Industry Sponsored Project</span> *2020-2022*, "Research on artificial intelligence prediction of civil aircraft structural vibration based on big data analysis" (基于大数据分析的民机结构振动响应人工智能预测研究), COMAC Shanghai Aircraft Design and Research Institute.
-- <span style="background-color: #191970; color: white; padding: 1px; border-radius: 1px;">Industry Sponsored Project</span> *2022-2023*, "Heavy duty railway freight car axle fault prediction and health management research" (重载铁路货车车轴故障预测与健康管理), Guoneng Railway Equipment Co., Ltd.
+- <span style="background-color: #191970; color: white; padding: 1px; border-radius: 1px;">Government Sponsored Project</span> *2018-2022*, "Big-data driven methodologies for high availability of the high-speed railways" (大数据驱动的高速铁路高可用性研究), National Natural Science Foundation of China (NSFC), Key project 71731008
+- <span style="background-color: #191970; color: white; padding: 1px; border-radius: 1px;">Government Sponsored Project</span> *2019-2022*, "Prognostics and health management of the railway vehicle running gears based on digital-twin technology" (基于数字孪生技术的城轨列车走行系统故障预测与健康管理), Beijing Municipal Natural Science Foundation-Rail Transit Joint Research Program, L191022
+- <span style="background-color: #191970; color: white; padding: 1px; border-radius: 1px;">Government Sponsored Project</span> *2019-2022*, "Intelligent fault diagnosis and health management system of industrial robots" (工业机器人智能故障诊断及健康评估系统), National Key Research and Development Program of China, 2018YFB1306100
+- <span style="background-color: #191970; color: white; padding: 1px; border-radius: 1px;">Industry Sponsored Project</span> *2018-2019*, "SDS reliability testing efficiency optimization" (装备可靠性测试效率提升), Huawei Machine Ltd
+- <span style="background-color: #191970; color: white; padding: 1px; border-radius: 1px;">Industry Sponsored Project</span> *2020-2021*, "Predictive maintenance of hobbing tools" (滚齿刀具的预测性维护), Volkswagen China
+- <span style="background-color: #191970; color: white; padding: 1px; border-radius: 1px;">Industry Sponsored Project</span> *2020-2021*, "Intra-carriage noise source identification and condition-based maintenance for high-speed train wheel degradation" (噪声声源识别测试及列车轮对视情维修研究), China Railway Xi'an Group
+- <span style="background-color: #191970; color: white; padding: 1px; border-radius: 1px;">Industry Sponsored Project</span> *2020-2021*, "Research on the inspection policy of hollow axles in high speed trains" (高速列车空心车轴的探伤周期研究), China Railway Xi'an Group
+- <span style="background-color: #191970; color: white; padding: 1px; border-radius: 1px;">Industry Sponsored Project</span> *2020-2022*, "Research on artificial intelligence prediction of civil aircraft structural vibration based on big data analysis" (基于大数据分析的民机结构振动响应人工智能预测研究), COMAC Shanghai Aircraft Design and Research Institute
+- <span style="background-color: #191970; color: white; padding: 1px; border-radius: 1px;">Industry Sponsored Project</span> *2022-2023*, "Heavy duty railway freight car axle fault prediction and health management research" (重载铁路货车车轴故障预测与健康管理), Guoneng Railway Equipment Co., Ltd
 
 
 # 🎖 Honors and Awards
