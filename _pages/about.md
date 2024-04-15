@@ -29,7 +29,7 @@ I won the Best Paper Award at the 2020 Annual Conference of the Optimization Met
 
 My research interest includes imbalance learning and positive unlabeled (PU) learning. To date, I have published 10 academic papers with total <a href='https://scholar.google.com/citations?user=jj04udoAAAAJ&hl=zh-CN'>google scholar citations <strong><span id='total_cit'>more than 200</span></strong></a>, including 6 SCI top journal papers, and obtained several invention patents.
 
-If you are seeking any form of **academic cooperation** or **project cooperation**, please feel free to email me at [qianmin.tsinghua@outlook.com](qianmin.tsinghua@outlook.com).
+If you are seeking any form of **academic cooperation** or **project cooperation**, please feel free to email me at [qianmin.tsinghua@outlook.com](mailto:qianmin.tsinghua@outlook.com).
 
 # 📖 Educations
 - *2019.09 - 2024.06 (now)*, PhD, Department of Industrial Engineering, Tsinghua University, Beijing, (GPA: 3.68/4, rank: 9/49)
